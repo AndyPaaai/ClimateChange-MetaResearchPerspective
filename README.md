@@ -58,3 +58,7 @@ install.packages(c("dplyr", "data.table", "stringr", "ggplot2", "RColorBrewer", 
    source("code.R")
    ```
 4. The script will automatically parse `ClimateChangeMetadata.csv`, print output logs to the console, save `ClimateChangeMetadata_Refined.csv`, and prepare two `ggplot` objects (`plot1` and `plot2`) that you can print to your graphics device.
+
+
+[![DOI](https://zenodo.org/badge/1180218396.svg)](https://doi.org/10.5281/zenodo.18991472)
+
