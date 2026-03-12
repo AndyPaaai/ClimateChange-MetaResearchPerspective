@@ -1,7 +1,8 @@
 # ==============================================================================
 # Bibliometric Analysis of Climate Change Literature
 # Description: Data cleaning, feature engineering, and visualization of Scopus data
-# Author: Andy (GitHub: AndyPaaai)
+# Authors: Andy A. Acosta-Monterrosa, Kevin F. Montoya-Quintero, Fabriccio J. Visconti-López,
+# Ivan David Lozada-Martínez
 # ==============================================================================
 
 # 1. SETUP & LIBRARIES
