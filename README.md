@@ -1,6 +1,8 @@
 # Climate Change Literature Perspective: A Bibliometric Analysis
 
-This repository contains the R code and methodology used to analyze metadata from a large-scale systematic literature search related to climate change. The outputs of this processing step have been used to shape a broader academic perspective on climate change research.
+This repository contains the R code, methodology, and datasets used to analyze metadata from a large-scale systematic literature search related to climate change. The outputs of this processing step have been used to shape the broader academic perspective published in the journal **Frontiers in Environmental Science**, titled:
+
+> *"Scientific Coherence in Climate Change Research: A Meta-Research Perspective to Accelerate Scientific Progress and Climate Justice"*
 
 ## Project Overview
 
