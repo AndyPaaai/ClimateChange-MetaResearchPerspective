@@ -29,7 +29,7 @@ AND ( EXCLUDE ( DOCTYPE , "rp" ) OR EXCLUDE ( DOCTYPE , "tb" ) OR EXCLUDE ( DOCT
 
 * `code.R`: The highly structured and professional main R script. It handles data ingestion, rule-based data cleaning, income level classification, data exports, and plotting.
 * `ClimateChangeMetadata.zip`: The raw input data containing ~1.79 million records. *(Tracked via Git LFS)*
-* `ClimateChangeMetadata_Refined.csv`: The clean data containing ~543,000 unique, classified records. *(Tracked via Git LFS)*
+* `ClimateChangeMetadata_Refined.csv`: The clean data containing ~543,000 unique, classified records resulting from the cleaning of the original dataset (in the zip file). This refined dataset is the one used directly to generate the descriptive statistics and graphs regarding publications by income group. *(Tracked via Git LFS)*
 
 ## Requirements to Run the Code
 
